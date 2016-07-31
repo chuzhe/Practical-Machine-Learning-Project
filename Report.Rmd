@@ -139,7 +139,5 @@ We can also make a prediction for the test test.
 ```{r}
 test_pred = predict(rffit,testing)
 test_pred
-test_pred2 = predict(glm_mod,testing)
-test_pred2
 ```
 
